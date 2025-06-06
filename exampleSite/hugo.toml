@@ -688,6 +688,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Yandex Metrica
     [params.analytics.yandexMetrica]
       id = ""
+    # Umami Analytics
+    [params.analytics.umami]
+      src = ""
+      dataWebsiteId = ""
 
   # Cookie consent config
   # Cookie 许可配置
