@@ -6,7 +6,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
 [![CircleCI](https://circleci.com/gh/dillonzq/LoveIt/tree/master.svg?style=svg)](https://circleci.com/gh/dillonzq/LoveIt/tree/master)
 
-English README | [简体中文说明](https://github.com/dillonzq/LoveIt/blob/master/README.zh-cn.md)
+English README
 
 > **LoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
