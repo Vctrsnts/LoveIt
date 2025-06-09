@@ -21,6 +21,9 @@ read [Why choose LoveIt](#why-choose-loveit) so that you can choose the one that
 
 To see this theme in action, here is a live [demo site](https://hugoloveit.com/) which is rendered with **LoveIt** theme.
 
+## Notas a tener en cuenta si se quiere usar:
+Los ficheros `list.html` y `terms.html` que se encuentran en el directorio `/layouts/taxonomy` tienen que estas en `/layouts/_default/` para que todo el sistema de **categorias** y **tags** funcione correctamente. Sin este cambio, no funciona nada.
+
 ## Why choose LoveIt
 
 Compared to the original LeaveIt theme and the KeepIt theme, the LoveIt theme has the following modifications.
